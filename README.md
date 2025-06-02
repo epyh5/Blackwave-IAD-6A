@@ -6,7 +6,7 @@ BLACKWAVE
 [Escribe los nombres de los integrantes de tu equipo.]: # 
 ALAN RONALDO SILVA ZAMORA 
 JAZMIN ACA TLAHUEXTL
-AMI RACHEL VELAZQUEZ GÓMEZ
+AMI RACHEL GONZÁLEZ VÁZQUEZ
 
 
 [Añade una imagen de tu juego.]: #
@@ -19,7 +19,7 @@ AMI RACHEL VELAZQUEZ GÓMEZ
 |---------------------------|------------------------------|--------------------------|-------------------------|
 | Alan Ronaldo Silva Zamora | Realizó las tareas asignadas.| Informó cuando fue necesario. | Entregó en tiempo |
 | Jazmín Aca Tlahuextl      | Participó en las actividades. | Mantuvo comunicación y presentó dudas | Cumplió con sus responsabilidades. |
-| Ami Rachel Velázquez Gómez| Cumplió con las tareas asignadas| Mostró interés en las actividades | Tuvo un retraso en una entrega pero fue justificado por temas de salud|
+| Ami Rachel González Vázquez | Cumplió con las tareas asignadas| Mostró interés en las actividades | Tuvo un retraso en una entrega pero fue justificado por temas de salud|
 
 ## 1. Propósito de tu juego
 El propósito del juego es escapar de kingrat y la peste, al igual que salvar la mayor cantidad de ciudadanos posibles.
