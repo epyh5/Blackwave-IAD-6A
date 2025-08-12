@@ -39,10 +39,10 @@ Es el año 1351. Toda Europa ha sido golpeada por la peste negra. Claire y su fa
 3. Claire comienza su camino sola, intentando sobrevivir.
 4. Encuentra ciudadanos contagiados que puede rescatar.
 5. Descubre frascos de una misteriosa cura, creados por un médico desaparecido.
-6. Obtiene la habilidad de curar a otroscon la cura.
-7. Intenta salvar a todos los cuidadanos posibles
+6. Obtiene la habilidad de curar a otros con la cura.
+7. Intenta salvar a todos los cuidadanos posibles.
 8. Intenta escapar de todos los peligros.
-9. Recorre la ciudad con la espereza de salir.
+9. Recorre la ciudad con la esperanza de salir.
 10. Comprende que esto solo está comenzando.
 
 ## ***2. Jugabilidad***
