@@ -4,10 +4,9 @@
 
 BLACKWAVE
 **Desarrolladores:**
-
-ALAN RONALDO SILVA ZAMORA
 JAZMIN ACA TLAHUEXTL
 AMI RACHEL GONZÁLEZ VÁZQUEZ
+ALAN RONALDO SILVA ZAMORA
 
 <img src="blackwave.jpg" width="80%" height="Auto">
 ## ***Tabla de evaluación del equipo.***
