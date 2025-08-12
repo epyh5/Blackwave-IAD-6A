@@ -15,7 +15,7 @@ ALAN RONALDO SILVA ZAMORA
 | --- | --- | --- | --- | --- |
 | Jazmin Aca Tlahuextl | Participó en las actividades. | Mantuvo comunicación | Programación | 10 |
 | Ami Rachel González Vázquez | Cumplió con las tareas asignadas | Mostró interés en las actividades y presentó dudas | Artista digital | 9 |
-| Alan Ronaldo Silva Zamora | Realizó algunas tareas asignadas. | No tuvo mucha comunicación. | Artista digital | 7 |
+| Alan Ronaldo Silva Zamora | Realizó algunas tareas asignadas. | No tuvo mucha comunicación. | Artista digital | 8 |
 
 ## 
 
